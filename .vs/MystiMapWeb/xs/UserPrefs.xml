@@ -1,38 +1,39 @@
 ﻿<Properties StartupConfiguration="{006E0D33-CC1D-42FC-8715-3DFE4C76F7AA}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/WeatherForecastController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/FloatSumController.cs">
     <Files>
-      <File FileName="WeatherForecast.cs" Line="11" Column="38" />
-      <File FileName="Program.cs" Line="20" Column="1" />
-      <File FileName="appsettings.json" Line="4" Column="43" />
-      <File FileName="DataContext.cs" Line="23" Column="35" />
-      <File FileName="dockerfile" Line="12" Column="27" />
-      <File FileName="Properties/launchSettings.json" Line="28" Column="8" />
-      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="WeatherForecast.cs" Line="4" Column="2" />
+      <File FileName="Program.cs" />
+      <File FileName="DataContext.cs" />
+      <File FileName="dockerfile" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="10" Column="6" />
+      <File FileName="Controllers/FloatSumController.cs" Line="15" Column="6" />
+      <File FileName="FloatSum.cs" Line="6" Column="42" />
+      <File FileName="appsettings.json" Line="9" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MystiMapWeb" expanded="True">
-            <Node name="MystiMapWeb" expanded="True">
+          <Node name="MystiMapWeb">
+            <Node name="MystiMapWeb">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="FloatSumController.cs" selected="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MystiMapWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
